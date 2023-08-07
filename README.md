@@ -1,5 +1,5 @@
 # 2023-2-practice-existing
-SSCC 2023년 2학기 재등록 인원 대상 github 연습용 repo입니다.
+SSCC 2023년 2학기 재등록 인원 대상 github 연습용 repo입니다.   
 회원 여러분은 아래 규칙에 맞추어 과제를 올려주세요.
 
 ## 과제 제출법
