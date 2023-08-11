@@ -13,4 +13,4 @@ SSCC 2023년 2학기 기존 회원 대상 연습용 Github repo입니다.
    - (`main 브랜치에 pr을 보낼 경우 심사가 반려될 수 있습니다`)
 5. PR을 보낸 링크를 복사하여 아래 구글폼 PR 제출란에 적는다.
 
-`:: https://forms.gle/ZfHaz9hviRTVxLBc7 ::`
+https://forms.gle/ZfHaz9hviRTVxLBc7
